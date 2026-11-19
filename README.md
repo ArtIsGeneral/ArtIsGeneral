@@ -1,16 +1,19 @@
-## Hi there 👋
+# [Zhiyang Han]
 
-<!--
-**ArtIsGeneral/ArtIsGeneral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on robotics, visual navigation, and robot learning. My research interests include visual memory, spatial representations, goal-directed navigation, and SLAM.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+**Tianjin University**  
+Master’s degree in Chemical Engineering, 2015–2018.
+
+My graduate research focused on process simulation, optimization, and control.
+
+## Current Research
+
+I am studying how robots can use visual memories of exploration to navigate toward image-specified goals.
+
+## Contact
+
+Email: zhiyanghan@tju.edu.cn
