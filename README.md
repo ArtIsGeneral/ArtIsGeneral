@@ -1,6 +1,6 @@
 # [Zhiyang Han]
 
-I work on robotics, visual navigation, and robot learning. My research interests include visual memory, spatial representations, goal-directed navigation, and SLAM.
+I work on robotics, visual navigation, and robot learning. My research interests include visual memory, spatial representations, auto navigation.
 
 
 ## Education
